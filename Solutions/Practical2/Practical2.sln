@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2", "Practical2\Practical2.csproj", "{251DF3CD-65D9-4D1F-8461-25FA2704CC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251DF3CD-65D9-4D1F-8461-25FA2704CC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251DF3CD-65D9-4D1F-8461-25FA2704CC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251DF3CD-65D9-4D1F-8461-25FA2704CC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251DF3CD-65D9-4D1F-8461-25FA2704CC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+F:\C#\Practical2\Practical2\bin\Practical2.dll
+F:\C#\Practical2\Practical2\bin\Practical2.pdb
+F:\C#\Practical2\Practical2\obj\Debug\Practical2.dll
+F:\C#\Practical2\Practical2\obj\Debug\Practical2.pdb
